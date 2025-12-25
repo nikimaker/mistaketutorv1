@@ -1,1 +1,2 @@
-console.log("MistakeTutor działa!");
+console.log(https://mistaketutorv1.onrender.com);
+
