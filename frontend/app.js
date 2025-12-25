@@ -1,2 +1,1 @@
-console.log(https://mistaketutorv1.onrender.com);
-
+const API = https://mistaketutorv1.onrender.com;
