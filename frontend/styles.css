@@ -1,0 +1,37 @@
+body {
+  margin 0;
+  background #0b0c10;
+  color #e8e8e8;
+  font-family Arial, sans-serif;
+}
+
+.container {
+  max-width 800px;
+  margin auto;
+  padding 20px;
+}
+
+.card {
+  background #13151a;
+  padding 20px;
+  border-radius 12px;
+}
+
+textarea {
+  width 100%;
+  margin-bottom 10px;
+  padding 10px;
+}
+
+button {
+  background #3b82f6;
+  color white;
+  border none;
+  padding 10px;
+  cursor pointer;
+}
+
+.muted {
+  color #aaa;
+  margin-top 20px;
+}
